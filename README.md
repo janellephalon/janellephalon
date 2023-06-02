@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub Profile 
 
-👋 I'm a Software Developer with a 5-year track record, leveraging my background in education. 
+👋 I'm a Software Developer with a 5-years of professional experience, leveraging my background in education. 
 
 🔧 Specializing in crafting efficient and robust code.
 
