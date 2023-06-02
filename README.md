@@ -1,16 +1,14 @@
-### Hi there 👋
+![Brown Minimalist Personal LinkedIn Banner](https://github.com/janellephalon/janellephalon/assets/95178236/46f15413-945e-4cdc-abba-50b321d93fe6)
+---
 
-<!--
-**janellephalon/janellephalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub Profile 
 
-Here are some ideas to get you started:
+👋 I'm a Software Developer with a 5-year track record, leveraging my background in education. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Specializing in crafting efficient and robust code.
+
+📚 Committed to making complex tech concepts more accessible. 
+
+💡 Open to collaboration. Connect on [Twitter](https://twitter.com/devreljanelle) or [Dev Community](https://dev.to/janellephalon).
+
+Let's build together
